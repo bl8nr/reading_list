@@ -1,5 +1,5 @@
-# reading_list
-A very useful reading list of technical documents
+# Cyber Reading List
+A very useful reading list of technical documents related to cyber security
 
 
 ## History of the Internet
@@ -64,7 +64,6 @@ A very useful reading list of technical documents
 ## The Cloud
 
 ---
-Some more reading materials
 
 ## General Cyber Security
 ---
