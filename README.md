@@ -147,8 +147,6 @@ https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_p
 
 
 
-
-
 https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf
 https://www.sans.org/reading-room/whitepapers/vpns/prime-numbers-public-key-cryptography-969
 https://wmx-api-production.s3.amazonaws.com/courses/3455/supplementary/STIX_Whitepaper_v1.1.pdf
