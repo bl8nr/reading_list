@@ -1,7 +1,6 @@
 # Cyber Reading List
 A very useful reading list of technical documents related to cyber security
 
-
 ## History of the Internet
 
 ---
