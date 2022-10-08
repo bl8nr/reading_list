@@ -174,6 +174,28 @@ https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_p
     *Just an article about how buffer overflows work*
 
 
+## Papers at the intersection of fitness and technology
+
+---
+
+* ### [Rationale and resources for teaching the mathematical modeling of athletic training and performance](https://journals.physiology.org/doi/epdf/10.1152/advan.00078.2011)
+
+    #### **Clarke, Skiba**
+
+* ### [Stages and processes of self-change of smoking: toward an integrative model of change](https://www.researchgate.net/publication/16334721_Stages_and_Processes_of_Self-Change_of_Smoking_-_Toward_An_Integrative_Model_of_Change)
+
+    #### **Prochaska, DiClemente**
+
+* ### [Application of the Transtheoretical Model to substance abuse: historical development and future directions](https://arlbuffalo.files.wordpress.com/2009/05/application-of-the-transtheoretical-model-to-substance-abuse-historical-development-and-future-directions.pdf)
+
+    #### **Migneault, Adams, Read**
+
+* ### [The transtheoretical model as applied to dietary behaviour and outcomes](https://www.cambridge.org/core/journals/nutrition-research-reviews/article/transtheoretical-model-as-applied-to-dietary-behaviour-and-outcomes/16E16200DBE683A7D5125920D409059C)
+
+    #### **Spencer**
+
+
+
 ## Other Stuff
 
 ---
